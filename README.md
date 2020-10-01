@@ -7,7 +7,9 @@ Oracle Character Recognition Dataset - Oracle-50K
 | Koukotsu   | 18671 | 1850
 | Chinese Etymology | 27155 | 1120
 | **Oracle-50K** | **59081** | **2668**
-| Other Ancient Chinese Characters| 221947| 
+| Other Ancient Chinese Characters| 221947|
+
+  Google Drive: https://drive.google.com/file/d/1PyXHz84viKr6N7GsWzrbPJubCkBBeLXv/view?usp=sharing
 
 \
 Few-shot Oracle Character Recognition Dataset - Oracle-FS\
